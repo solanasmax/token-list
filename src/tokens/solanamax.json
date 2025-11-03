@@ -1,0 +1,17 @@
+{
+  "chainId": 101,
+  "address": "9tz2zqrek4vfim7DCoqQcZzKsvY4PQzHbqsT4JXez2Ka",
+  "symbol": "SMAX",
+  "name": "Solana Max",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/solanasmax/smax/main/banner.png",
+  "tags": ["utility-token", "fair-launch"],
+  "extensions": {
+    "website": "https://solanasmax.github.io/smax/",
+    "whitepaper": "https://solanasmax.github.io/smax/whitepaper.pdf",
+    "telegram": "https://t.me/solanasmax",
+    "twitter": "https://twitter.com/solanasmax",
+    "discord": "https://discord.gg/solanasmax",
+    "description": "Solana Max ($SMAX) — a fair-launch Solana token designed to promote stable growth, prevent price manipulation, and ensure long-term value."
+  }
+}
